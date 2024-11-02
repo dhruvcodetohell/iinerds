@@ -1,0 +1,26 @@
+{
+  "name": "iinerds",
+  "version": "1.0.0",
+  "description": "Url shortner",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvcodetohell/iinerds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvcodetohell/iinerds/issues"
+  },
+  "homepage": "https://github.com/dhruvcodetohell/iinerds#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^6.10.0",
+    "nanoid": "^5.0.8"
+  }
+}
